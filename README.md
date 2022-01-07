@@ -1,5 +1,6 @@
 # Tooltip
 
+
 Dowload `tooltip` folder and place anywhere within code and import `TooltipModule` in app.module.ts of your application.
 
 ## Usage
@@ -44,3 +45,5 @@ myOptions: TooltipOptions = {
 | autoPlacement    | boolean                             | true    | Place the tooltip so that it does not go beyond the borders of the browser window. |
 | showDelay       | number                              | 0       | The delay in ms before showing the tooltip. |
 | hideDelay       | number                              | 300     | The delay in ms before removing the tooltip. |
+
+
